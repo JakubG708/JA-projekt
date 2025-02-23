@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BF367F-29D2-4CA0-8CD1-49BED5D3BAE3}|JADll\\JADll.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll\\asmDll.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50BF367F-29D2-4CA0-8CD1-49BED5D3BAE3}|JADll\\JADll.vcxproj|solutionrelative:JADll\\asmDll.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\JAApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|solutionrelative:JAApp\\JAApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA6D9F7-15FE-401B-BFAF-7033A3A6C64A}|JADll_C\\JADll_C.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll_C\\JADll_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCA6D9F7-15FE-401B-BFAF-7033A3A6C64A}|JADll_C\\JADll_C.vcxproj|solutionrelative:JADll_C\\JADll_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BF367F-29D2-4CA0-8CD1-49BED5D3BAE3}|JADll\\JADll.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll\\asmDll.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50BF367F-29D2-4CA0-8CD1-49BED5D3BAE3}|JADll\\JADll.vcxproj|solutionrelative:JADll\\asmDll.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\matrixB.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|solutionrelative:JAApp\\matrixB.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\matrixA.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|solutionrelative:JAApp\\matrixA.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\resultMatrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0711895A-87F2-4FA9-8AFE-8B617D6B697B}|JAApp\\JAApp.vcxproj|solutionrelative:JAApp\\resultMatrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "asmDll.def",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll\\asmDll.def",
+              "RelativeDocumentMoniker": "JADll\\asmDll.def",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll\\asmDll.def",
+              "RelativeToolTip": "JADll\\asmDll.def",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-01-09T23:35:07.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JADll_C.cpp",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll_C\\JADll_C.cpp",
+              "RelativeDocumentMoniker": "JADll_C\\JADll_C.cpp",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll_C\\JADll_C.cpp",
+              "RelativeToolTip": "JADll_C\\JADll_C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T13:38:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resultMatrix.txt",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\resultMatrix.txt",
+              "RelativeDocumentMoniker": "JAApp\\resultMatrix.txt",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\resultMatrix.txt",
+              "RelativeToolTip": "JAApp\\resultMatrix.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-06T22:02:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JAApp.cpp",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\JAApp.cpp",
+              "RelativeDocumentMoniker": "JAApp\\JAApp.cpp",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\JAApp.cpp",
+              "RelativeToolTip": "JAApp\\JAApp.cpp",
+              "ViewState": "AQIAAK4CAAAAAAAAAAAswMMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T16:04:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asmDll.asm",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll\\asmDll.asm",
+              "RelativeDocumentMoniker": "JADll\\asmDll.asm",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JADll\\asmDll.asm",
+              "RelativeToolTip": "JADll\\asmDll.asm",
+              "ViewState": "AQIAACwAAAAAAAAAAAAEwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T16:09:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "matrixA.txt",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\matrixA.txt",
+              "RelativeDocumentMoniker": "JAApp\\matrixA.txt",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\matrixA.txt",
+              "RelativeToolTip": "JAApp\\matrixA.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-01T18:21:56.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "matrixB.txt",
+              "DocumentMoniker": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\matrixB.txt",
+              "RelativeDocumentMoniker": "JAApp\\matrixB.txt",
+              "ToolTip": "C:\\Users\\agnel\\Desktop\\JA projekt\\JASol\\JAApp\\matrixB.txt",
+              "RelativeToolTip": "JAApp\\matrixB.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-01T18:22:16.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

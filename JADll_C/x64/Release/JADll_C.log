@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  JADll_C.cpp
+C:\Users\agnel\Desktop\JA projekt\JASol\JADll_C\JADll_C.cpp(11,6): warning C4273: "matrixMultiplicationThread": niespójne powiązanie biblioteki dll
+     Trwa tworzenie biblioteki C:\Users\agnel\Desktop\JA projekt\JASol\x64\Release\JADll_C.lib i obiektu C:\Users\agnel\Desktop\JA projekt\JASol\x64\Release\JADll_C.exp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  JADll_C.vcxproj -> C:\Users\agnel\Desktop\JA projekt\JASol\x64\Release\JADll_C.dll

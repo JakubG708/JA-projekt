@@ -1,0 +1,3 @@
+﻿  JADll_C.cpp
+C:\Users\agnel\Desktop\JA projekt\JASol\JADll_C\JADll_C.cpp(11,6): warning C4273: "matrixMultiplicationThread": niespójne powiązanie biblioteki dll
+  JADll_C.vcxproj -> C:\Users\agnel\Desktop\JA projekt\JASol\x64\Debug\JADll_C.dll
